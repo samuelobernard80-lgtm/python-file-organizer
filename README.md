@@ -8,8 +8,8 @@ into categories such as Images, Videos , Documents , and Music.
 - works on Windows and Mac
 
 # How to Use
-1.Run `file_organizer.py`
-2.Enter the folder path you want to organize
+- Run `file_organizer.py`
+- Enter the folder path you want to organize (eg. C:\Users\HP\Desktop\Cat_files)
 
 # Technologies
 - Python
